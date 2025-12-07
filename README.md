@@ -22,17 +22,16 @@
 ```java
 public class Guilherme {
     public static void main(String[] args) {
-        String nome           = "Guilherme";
-        String cargo          = "Estudante Universitário";
-        String linguagem      = "Java";
-        String especialidade  = "Backend & Sistemas";
-        String pais           = "Brasil";
-        String github         = "github.com/gui-bt";
-        
-        List<String> interessesFuturos = new ArrayList<>();
-        interessesFuturos.add("Inteligência Artificial");
-        interessesFuturos.add("Cibersegurança");
 
+    private String nome = "Guilherme";
+    private String cargo = "Estudante de Sistemas de Informação";
+    private String linguagens = "Java, JavaScript/TypeScript (Node.js)";
+    private String frameworks = "Angular, Spring Boot";
+    private String bancoDadosRelacional = "SQLite";
+    private String interesse = "Backend";
+    private String pais = "Brasil";
+    private String github = "[github.com/gui-bt](https://github.com/gui-bt)";
+        
         System.out.println("O que nos define não é apenas o corpo físico,");
         System.out.println("mas os rastros de informação que deixamos para trás.");
     }
