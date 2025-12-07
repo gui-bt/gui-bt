@@ -30,7 +30,7 @@ public class Guilherme {
     private String bancoDadosRelacional = "SQLite";
     private String interesse = "Backend";
     private String pais = "Brasil";
-    private String github = "[github.com/gui-bt](https://github.com/gui-bt)";
+    private String github = "https://github.com/gui-bt";
         
         System.out.println("O que nos define não é apenas o corpo físico,");
         System.out.println("mas os rastros de informação que deixamos para trás.");
@@ -47,12 +47,14 @@ public class Guilherme {
 <div style="display: inline_block"></br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="80"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="80"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="80"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="80"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="80"/>          
+    
+ 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" width="80"/>  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="80"/>          
 </div>
 
 ### Tecnologias que desejo estudar:
